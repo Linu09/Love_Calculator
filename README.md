@@ -15,7 +15,7 @@ What is your name?
 
 brad pitt
 
-What is their name? 
+What is Your Patner name? 
 
 Jennifer Aniston
 
