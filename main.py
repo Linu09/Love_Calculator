@@ -1,6 +1,6 @@
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
-name2 = input("What is their name? \n")
+name2 = input("What is Your Patner name? \n")
 
 # Added 2 input strings 
 combined_names = name1 + name2
